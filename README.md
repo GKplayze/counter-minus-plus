@@ -1,2 +1,2 @@
-# counter-minus-plus
+# js-simple-counter
 Created with CodeSandbox
